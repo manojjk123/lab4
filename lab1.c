@@ -3,3 +3,6 @@ int main()
 {
 
 }
+list();
+sort():
+search();
